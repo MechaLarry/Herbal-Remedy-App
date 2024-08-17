@@ -1,0 +1,48 @@
+{
+  "herbs": [
+    {
+      "id": "3",
+      "name": "Abdirahman",
+      "advantages": [
+        "Contains allicin",
+        "which can help lower blood pressure",
+        "reduce cholesterol levels",
+        "and support immune function.",
+        "Has antibacterial and antiviral properties."
+      ],
+      "image": "product.jpg"
+    },
+    {
+      "id": "4827",
+      "name": "Onions",
+      "advantages": [
+        "Very Good"
+      ],
+      "image": " \"image\": \"product.jpg\""
+    },
+    {
+      "id": "82e1",
+      "name": "Canjera",
+      "advantages": [
+        "macan sana"
+      ],
+      "image": "\"image\": \"product.jpg\""
+    },
+    {
+      "id": "5cab",
+      "name": "our best products",
+      "advantages": [
+        "available"
+      ],
+      "image": "maize"
+    },
+    {
+      "id": "e95d",
+      "name": "wholesale",
+      "advantages": [
+        "available"
+      ],
+      "image": "onions"
+    }
+  ]
+}
