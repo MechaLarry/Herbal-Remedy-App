@@ -27,22 +27,6 @@
         "macan sana"
       ],
       "image": "\"image\": \"product.jpg\""
-    },
-    {
-      "id": "5cab",
-      "name": "our best products",
-      "advantages": [
-        "available"
-      ],
-      "image": "maize"
-    },
-    {
-      "id": "e95d",
-      "name": "wholesale",
-      "advantages": [
-        "available"
-      ],
-      "image": "onions"
     }
   ]
 }
